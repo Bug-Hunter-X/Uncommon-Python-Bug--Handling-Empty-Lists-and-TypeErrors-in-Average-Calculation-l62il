@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in Python code related to average calculation. The original code lacks proper error handling for empty lists and mixed data types within the input list. The solution demonstrates how to improve the code by including explicit checks for both cases, making it more robust and preventing unexpected errors.
